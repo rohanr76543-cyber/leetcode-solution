@@ -11,4 +11,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 <!---LeetCode Topics End-->
