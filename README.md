@@ -10,6 +10,11 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
