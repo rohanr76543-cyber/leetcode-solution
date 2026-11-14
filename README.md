@@ -17,11 +17,13 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -30,6 +32,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
