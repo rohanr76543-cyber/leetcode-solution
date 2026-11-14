@@ -16,5 +16,18 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
