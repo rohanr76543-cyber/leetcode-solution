@@ -51,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rohanr76543-cyber/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
